@@ -1,2 +1,1 @@
-# alx-low_level_programming
-ALX LOW LEVEL PROGRAMMING USING C PROGRAMMING LANGUAGE
+#Starting to Code in C today
